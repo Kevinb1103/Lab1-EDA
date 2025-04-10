@@ -1,1 +1,2 @@
 # Lab1-EDA
+El presente informe detalla el proceso de diseño e implementación de una clase BigVigenere en Java, la cual permitirá cifrar y descifrar mensajes utilizando esta aproximación innovadora del cifrado de Vigenère con claves de gran tamaño y una representación matricial del alfabeto. A lo largo de este documento, se expondrán los detalles de la construcción de la clase, la lógica implementada en sus métodos, los resultados obtenidos en las pruebas experimentales y las conclusiones derivadas de este ejercicio práctico.
